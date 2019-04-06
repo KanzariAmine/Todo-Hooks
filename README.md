@@ -1,4 +1,4 @@
-# Todo List Hooks
+# Todo List using ReactHooks
 >This a ToDo List App created with React Hooks.
 
 ## Quick Start:
