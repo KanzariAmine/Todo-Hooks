@@ -9,7 +9,7 @@ npm install
 
 # ADD YOUR OWN FIREBASE CONFIG TO STORE.JS
 
-# Serve on localhost:3000
+# Run App
 npm start
 
 # Build for production
